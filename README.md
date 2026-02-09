@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankitha Naik</h1>
 <h3 align="center">A passionate Full stack developer from Karnataka</h3>
 
-<p align="left"> <img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" alt="ankithanaik12" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" alt="ankithanaik12" /></a> </p>
 
