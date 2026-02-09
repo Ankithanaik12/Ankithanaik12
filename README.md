@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankitha Naik</h1>
 <h3 align="center">A passionate Full stack developer from Karnataka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankithanaik12&label=Profile%20views&color=0e75b6&style=flat" alt="ankithanaik12" /> </p>
+<p align="left"> <img src="https://thumbs.dreamstime.com/b/professional-software-developer-coding-program-engineering-prompt-aig-attractive-skilled-programmer-typing-computer-laptop-319463102.jpg" alt="ankithanaik12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankithanaik12" alt="ankithanaik12" /></a> </p>
 
