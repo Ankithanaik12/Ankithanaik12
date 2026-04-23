@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ankitha Naik</h1>
 <h3 align="center">A passionate Full stack developer from Karnataka</h3>
-🎓 BCA Graduate with strong interest in software development
-💡 Skilled in both frontend and backend technologies
-🔁 Exploring development using Java, Python, and JavaScript
-🌱 Currently building real-world full stack applications
-🎯 Goal: To start my career as a Software Developer
+
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" alt="ankithanaik12" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack development using java and python**
+- 🎓 BCA Graduate with strong interest in software development
+💡 Skilled in frontend and backend technologies
+🔁 Working with Java, Python, and JavaScript
+🚀 Building real-world full stack applications
+🎯 Goal: To start my career as a Software Developer
 
 - 📫 How to reach me **naikankitha1210@gmail.com**
 
