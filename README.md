@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankitha Naik</h1>
 <h3 align="center">A passionate Full stack developer from Karnataka</h3>
+🎓 BCA Graduate with strong interest in software development
+💡 Skilled in both frontend and backend technologies
+🔁 Exploring development using Java, Python, and JavaScript
+🌱 Currently building real-world full stack applications
+🎯 Goal: To start my career as a Software Developer
 
 
 
