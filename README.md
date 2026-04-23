@@ -11,7 +11,7 @@
 - 💡 Skilled in frontend and backend technologies  
 - 🔁 Working with Java, Python, and JavaScript  
 - 🚀 Building real-world full stack applications  
-- 🎯 Goal: To start my career as a Software Developer  
+
 
 - 📫 How to reach me **naikankitha1210@gmail.com**
 
