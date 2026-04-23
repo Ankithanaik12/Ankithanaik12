@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" alt="ankithanaik12" /></a> </p>
+ <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://cdn.pixabay.com/photo/2024/05/20/13/28/ai-generated-8775232_1280.png" alt="ankithanaik12" /></a> </p>
 
 - 🌱 I’m currently learning **Full stack development using java and python**
 - 🎓 BCA Graduate with strong interest in software development
